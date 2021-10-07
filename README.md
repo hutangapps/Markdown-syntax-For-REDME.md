@@ -54,3 +54,5 @@ Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
 ![untitled-4](https://user-images.githubusercontent.com/23120897/38767765-3898d5ba-401a-11e8-8e11-81b845f41bff.png)
 
 berikut link belajar lengkapnya : [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
+Sangat membantu
